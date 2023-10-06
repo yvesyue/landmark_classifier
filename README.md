@@ -41,10 +41,10 @@ This addresses the need for advanced features in photo sharing and storage servi
 
 ## Challenges
 
--underfitting for the model from scratch.
--overfitting for the model transffered.
+- Underfitting for the model from scratch. solved with redisign the model architecture and train the model from start.
+- Overfitting for the model transffered. solved with experiment diffenrent transfered model and implementation regularizations. 
 
 ## Future Improvements
--deployment into cloud-based app 
+- deployment into cloud-based app 
 
 Feel free to explore the provided Jupyter Notebooks for detailed project implementation. Happy coding!
